@@ -1,0 +1,13 @@
+C:\Users\dudmo\OneDrive\Documentos\Projetos\asterico\Asterico\Asterico\bin\Debug\netcoreapp3.1\Asterico.exe
+C:\Users\dudmo\OneDrive\Documentos\Projetos\asterico\Asterico\Asterico\bin\Debug\netcoreapp3.1\Asterico.deps.json
+C:\Users\dudmo\OneDrive\Documentos\Projetos\asterico\Asterico\Asterico\bin\Debug\netcoreapp3.1\Asterico.runtimeconfig.json
+C:\Users\dudmo\OneDrive\Documentos\Projetos\asterico\Asterico\Asterico\bin\Debug\netcoreapp3.1\Asterico.runtimeconfig.dev.json
+C:\Users\dudmo\OneDrive\Documentos\Projetos\asterico\Asterico\Asterico\bin\Debug\netcoreapp3.1\Asterico.dll
+C:\Users\dudmo\OneDrive\Documentos\Projetos\asterico\Asterico\Asterico\bin\Debug\netcoreapp3.1\Asterico.pdb
+C:\Users\dudmo\OneDrive\Documentos\Projetos\asterico\Asterico\Asterico\obj\Debug\netcoreapp3.1\Asterico.csprojAssemblyReference.cache
+C:\Users\dudmo\OneDrive\Documentos\Projetos\asterico\Asterico\Asterico\obj\Debug\netcoreapp3.1\Asterico.AssemblyInfoInputs.cache
+C:\Users\dudmo\OneDrive\Documentos\Projetos\asterico\Asterico\Asterico\obj\Debug\netcoreapp3.1\Asterico.AssemblyInfo.cs
+C:\Users\dudmo\OneDrive\Documentos\Projetos\asterico\Asterico\Asterico\obj\Debug\netcoreapp3.1\Asterico.csproj.CoreCompileInputs.cache
+C:\Users\dudmo\OneDrive\Documentos\Projetos\asterico\Asterico\Asterico\obj\Debug\netcoreapp3.1\Asterico.dll
+C:\Users\dudmo\OneDrive\Documentos\Projetos\asterico\Asterico\Asterico\obj\Debug\netcoreapp3.1\Asterico.pdb
+C:\Users\dudmo\OneDrive\Documentos\Projetos\asterico\Asterico\Asterico\obj\Debug\netcoreapp3.1\Asterico.genruntimeconfig.cache
